@@ -1,0 +1,26 @@
+src
+  |-----main
+          |-----java
+                  |-----classes
+                  |       |-----main
+                  |                      Input.java
+                  |                      JavaClassesMainRunner.java
+                  |                      Train.java
+                  |                      TrainSchedule.java
+                  |-----fundamentals
+                          |-----main
+                          |       |       AppLauncher.java
+                          |       |       JavaFundamentalsMainRunner.java
+                          |       |-----tasks
+                          |                      GreetingsTask.java
+                          |                      NumToMonthConversionTask.java
+                          |                      RandNumbersTask.java
+                          |                      ReverseArgumentsTask.java
+                          |                      SumMultiplyTask.java
+                          |-----optional
+                                  |       AppLauncher.java
+                                  |       JavaFundamentalsOptionalRunner.java
+                                  |       PrintDoubleArray.java
+                                  |-----tasks
+                                                 AscendingSortingTask.java
+                                                 DeleteMaxElementTask.java
